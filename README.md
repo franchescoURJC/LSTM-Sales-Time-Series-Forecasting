@@ -27,7 +27,7 @@ Ajustar diferentes parámetros:
 
 He realizado dos versiones diferentes, pero adjunto la que mejor funciona. 
 
-Fuentes para el desarrollo del ejercicio:
+##### Fuentes para el desarrollo del ejercicio:
 Teoría sobre diferentes técnicas que podría emplear estadísticas y de ML/DL:
 https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html
 https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573
