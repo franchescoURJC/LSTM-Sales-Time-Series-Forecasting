@@ -16,7 +16,7 @@ El problema es uno de predicción basado en datos dependientes del tiempo, más 
 - Como material complementario también creé la gráfica de residuos que permite observar mejor el error (distancia vertical) de las observaciones reales frente a la recta de regresión.
 Como se esperaba, no se ajusta a una regresión lineal, pero quería tener una visualización inicial de los datos. El error es muy grande. Se puede ya concluir que predecir el futuro con datos tan inconsistentes resultará complicado y los resultados no serán muy fiables.
 #### Deep learning
-Uso de LSTM: Long Short-Term Memory (LSTM) is **a type of artificial recurrent neural network (RNN) architecture used in the field of deep learning**
+Uso de Long Short-Term Memory (LSTM).
 
 Ajustar diferentes parámetros:
 - Días de *lookback* => 7
