@@ -14,7 +14,7 @@ El problema es uno de predicción basado en datos dependientes del tiempo, más 
 ##### Regresión lineal
 - Para tener una visualización inicial de los datos creé un gráfica de regresión lineal donde la variable independiente es el tiempo y el variable dependiente el número de ventas.
 - Como material complementario también creé la gráfica de residuos que permite observar mejor el error (distancia vertical) de las observaciones reales frente a la recta de regresión.
-Como se esperaba, no se ajusta a una regresión lineal, pero quería tener una visualización inicial de los datos. El error es muy grande. Se puede ya concluir que predecir el futuro con datos tan inconsistentes resultará complicado y los resultados no serán muy fiables.
+Como se esperaba, no se ajusta a una regresión lineal, pero quería tener una visualización inicial de los datos. El error es muy grande. Se puede ya concluir que predecir el futuro con datos tan inconsistentes resultará complicado y los resultados no serán fiables.
 #### Deep learning
 Uso de Long Short-Term Memory (LSTM).
 
